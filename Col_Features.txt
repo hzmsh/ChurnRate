@@ -1,0 +1,23 @@
+customerID 1 to 7044
+gender	0- female, 1 - male 
+SeniorCitizen	0 - no, 1 yes
+Partner	0 - no, 1 yes
+Dependents 0 - no, 1 yes	
+tenure	numerical 
+PhoneService	0 - no, 1 yes
+MultipleLines	0 - no, 1 yes
+InternetService	Factor: DSL, Fiber optic, No
+OnlineSecurity	0 - no, 1 yes
+OnlineBackup	0 - no, 1 yes
+DeviceProtection	0 - no, 1 yes
+TechSupport	0 - no, 1 yes
+StreamingTV	0 - no, 1 yes
+StreamingMovies	0 - no, 1 yes
+Contract	Factor: Month-to-month, One year, Two year
+PaperlessBilling 0 - no, 1 yes	
+PaymentMethod	Factor:Electronic check,Mailed check,Bank transfer 				(automatic), Credit card (automatic)
+MonthlyCharges	numerical
+TotalCharges	numerical
+
+
+Churn 0 - no, 1 yes
